@@ -21,6 +21,8 @@
   ### Hardware
     AT24CM02
 
+## Layer 1
+
 ## Functionalities
 
   I2C
